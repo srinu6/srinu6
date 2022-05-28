@@ -1,10 +1,12 @@
  <h2 align="center">Hi there 👋, I'm Srinu!</h2>
 
-Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as React.js, React Native, Redux, JavaScript, HTML, CSS.
+I am Having exposure♛ in building professional Web🖥, Mobile(Both Android & iOS) Applications. Experienced with a demonstrated history of working in the information industry🏢 . Skilled in FrontEnd Technologies✍️ as React.js, React Native, Redux, JavaScript, HTML, CSS.
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on ReactJS, React Native and other technologies. Also deployed and having live-hosted projects📽, checkout out my GitHub pages📒 or YouTube📲 channel for more details.
 
-Founded Connecting Freshers when I was in college, it was funded by my college(NIT Srinagar).
+Founded Connecting Freshers when I was in 2nd year of my Batchlor's Degree and that is one of the greatest exposure that I ever got into Enterpreneurship! Presented the Idea in National Level Idea Challenge competition and Hired students Interns from Premium Institutes to work on my idea and even got funding from my college(NIT Srinagar) in those days.
+
+I am having some research based experience on Machine Learning, Deep Learning and OpenCV. I worked on Autonomus Vehicle Project which was ongoing in AeroSpace Engineering Department at Indian Institute of Science, Bangalore(IISc Bangalore).
 
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 LinkedIn - https://www.linkedin.com/in/srinuvasarao-maripi/ <br/>
