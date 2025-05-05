@@ -11,9 +11,7 @@ After my Batchlor's degree at NIT Srinagar, I worked at a Fortune 5th Company(Un
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 10+ mini & major projects💼 on ReactJS, React Native and other technologies. Also deployed and having live-hosted projects📽, checkout out my GitHub pages📒 or YouTube📲 channel for more details.
 
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
-LinkedIn - https://www.linkedin.com/in/srinuvasarao-maripi/ <br/>
 GitHub - https://github.com/srinu6 </br>
-YouTube - https://youtube.com/c/RowdyCoder <br/>
 Portfolio - For portfolio connect with me. <br/>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=srinu6&theme=highcontrast&show_icons=true&count_private=true)
